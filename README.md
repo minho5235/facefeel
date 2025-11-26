@@ -52,8 +52,11 @@
 
 FaceFeel/
 ├── facefeel.py          # Main Application entry point
+
 ├── requirements.txt     # Dependencies list
+
 ├── README.md            # Project documentation
+
 └── FaceFeel_Result.jpg  # (Auto-generated) Analysis result image
 
 ## 코드 모듈 상세
@@ -98,4 +101,5 @@ FaceFeel은 눈매(Eye Angle), 턱선(Jaw Shape), 얼굴형(Face Ratio)의 조�
 | **열정적인 개척자 (늑대상)** | 보통 (Balanced) | 강함 (Strong) | - | 강인한 의지 |
 | **지적인 학자 (토끼상)** | 보통 (Balanced) | 갸름함 (Soft) | 긴 얼굴 (Long) | 논리적, 차분함 |
 | **행복한 쿼카 (다람쥐상)** | 보통 (Balanced) | 갸름함 (Soft) | 둥근 얼굴 (Round) | 긍정, 귀여움 |
+
 | **천의 얼굴 (조화)** | 보통 (Balanced) | 보통 (Balanced) | - | 황금비율, 밸런스 |
