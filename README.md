@@ -51,6 +51,7 @@
 ## 📂 프로젝트 구조 (Project Structure)
 
 FaceFeel/
+
 ├── facefeel.py          # Main Application entry point
 
 ├── requirements.txt     # Dependencies list
@@ -103,3 +104,4 @@ FaceFeel은 눈매(Eye Angle), 턱선(Jaw Shape), 얼굴형(Face Ratio)의 조�
 | **행복한 쿼카 (다람쥐상)** | 보통 (Balanced) | 갸름함 (Soft) | 둥근 얼굴 (Round) | 긍정, 귀여움 |
 
 | **천의 얼굴 (조화)** | 보통 (Balanced) | 보통 (Balanced) | - | 황금비율, 밸런스 |
+
